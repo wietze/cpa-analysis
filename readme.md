@@ -10,7 +10,7 @@ Running the project
 This is a Matlab project. To run the analysis, open Matlab and run ```assignment.m```. This file will perform all computations, and output:
 
 * The correct key candidate ```k```;
-* A plot of the absolute correlation value for each ```k``` candidate;
+* A plot of the absolute correlation value for each ```k``` candidate, the top candidate highlighted in blue;
 * A plot giving the rankings for the correct key candidate with respectively 1k, 4k, 8k and 12k power traces.
 
 Notes
